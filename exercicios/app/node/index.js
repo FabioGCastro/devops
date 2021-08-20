@@ -74,7 +74,7 @@ app.get('/html',function(req,res){
 		"Data":""
 	};
 	
-	data["Data"] = "API de Serviços do Jon";
+	data["Data"] = "API de Serviços do Castro";
 	data["Ver"] = "0.2";
 
 	var body = '<html>'
